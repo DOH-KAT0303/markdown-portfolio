@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Scuba Site](https://www.scubadiving.com/8-awesome-seahorse-photos-from-our-underwater-photo-contest?dom=rss-default&src=syn)
