@@ -1,8 +1,11 @@
-- Traveling
+- **Traveling**
   - Caribbean
   - New Orleans
   - France
-- Desserts
+- _Desserts_
   - Croissant
   - Pastry
   - Ice Cream
+- _**Colors**_
+  - Pink
+  - Yellow
