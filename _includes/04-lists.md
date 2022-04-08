@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Traveling
+  Caribbean
+  New Orleans
+  Franch
+2. Desserts
+  Croissant
+  Pastry
+  Ice Cream
